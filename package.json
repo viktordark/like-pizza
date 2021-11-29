@@ -97,7 +97,13 @@
       "not op_mini all"
     ],
     "engines": {
-      "node": " 16.x"},
+      "name": "myapp",
+   "description": "a really cool app",
+    "version": "1.0.0",
+   "engines": {
+    "node": "14.x"
+  }
+},
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
